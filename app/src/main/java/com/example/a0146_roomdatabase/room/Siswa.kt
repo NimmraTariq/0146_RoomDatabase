@@ -11,3 +11,4 @@ data class Siswa(
     val alamat: String,
     val telpon: String
 )
+// Entity representing a single student in the database
