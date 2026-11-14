@@ -69,3 +69,4 @@ fun Siswa.toDetailSiswa(): DetailSiswa = DetailSiswa(
     alamat = alamat,
     telpon = telpon
 )
+// UI State management and validation for data entry
