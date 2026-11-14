@@ -12,3 +12,4 @@ class ContainerDataApp(private val context: Context): ContainerApp {
         OfflineRepositoriSiswa(DatabaseSiswa.getDatabase(context).siswaDao())
     }
 }
+// Manual Dependency Injection Container setup
