@@ -14,13 +14,17 @@ The application allows users to manage a list of students (Siswa), providing fea
 ## Screenshots
 
 ### Home Screen
-<!-- Place Home Screen Screenshot below -->
-
+<p align="center">
+  <img src="screenshots/home_empty.jpg" width="300" alt="Home Screen (Empty)" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/home_filled.jpg" width="300" alt="Home Screen (With Data)" />
+</p>
 <br>
 
 ### Entry Form Screen
-<!-- Place Entry Form Screenshot below -->
-
+<p align="center">
+  <img src="screenshots/entry_form.jpg" width="300" alt="Entry Form Screen" />
+</p>
 <br>
 
 ## Tech Stack & Libraries
