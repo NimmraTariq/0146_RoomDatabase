@@ -29,3 +29,4 @@ class HomeViewModel(private val repositoriSiswa: RepositoriSiswa) : ViewModel() 
 data class HomeUiState(
     val listSiswa: List<Siswa> = listOf()
 )
+// UI State management for the Home Screen list view
