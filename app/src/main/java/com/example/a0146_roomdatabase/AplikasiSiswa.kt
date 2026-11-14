@@ -15,3 +15,4 @@ class AplikasiSiswa : Application() {
         container = ContainerDataApp(this)
     }
 }
+// Main application entry point for dependency tracking
