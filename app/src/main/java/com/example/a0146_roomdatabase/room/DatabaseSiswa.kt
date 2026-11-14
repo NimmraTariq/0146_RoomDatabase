@@ -23,3 +23,4 @@ abstract class DatabaseSiswa : RoomDatabase() {
         }
     }
 }
+// Core Room Database configuration class
