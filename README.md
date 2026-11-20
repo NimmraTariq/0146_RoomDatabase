@@ -56,8 +56,12 @@ The application allows users to manage a list of students (Siswa), providing fea
 
 ## Screenshots Session 10
 
-![SC1.jpg](screenshots/SC1.jpg)
+<p align="center">
+  <img src="screenshots/SC1.jpg" width="300" alt="Session 10 Screen 1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/SC2.jpg" width="300" alt="Session 10 Screen 2" />
+</p>
 
-![SC2.jpg](screenshots/SC2.jpg)
-
-![SC3.jpg](screenshots/SC3.jpg)
+<p align="center">
+  <img src="screenshots/SC3.jpg" width="300" alt="Session 10 Screen 3" />
+</p>
