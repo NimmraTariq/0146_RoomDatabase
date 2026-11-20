@@ -11,7 +11,7 @@ The application allows users to manage a list of students (Siswa), providing fea
 * **Local Persistence:** Data is stored locally and securely on the device using Room.
 * **Modern UI:** Fully built with Jetpack Compose and Material Design 3 guidelines.
 
-## Screenshots
+## Screenshots Session 9
 
 ### Home Screen
 <p align="center">
@@ -53,3 +53,11 @@ The application allows users to manage a list of students (Siswa), providing fea
 2. Open the project in Android Studio.
 3. Sync Gradle and build the project.
 4. Run on an Android emulator or a physical device.
+
+## Screenshots Session 10
+
+![SC1.jpg](screenshots/SC1.jpg)
+
+![SC2.jpg](screenshots/SC2.jpg)
+
+![SC3.jpg](screenshots/SC3.jpg)
